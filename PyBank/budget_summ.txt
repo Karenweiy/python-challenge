@@ -1,0 +1,5 @@
+Total Months: 86
+Total Profits: $38382578
+Average Profits: $446309.0465116279
+Maximum Profits: $1170593
+Minimum Profits: $-1196225
