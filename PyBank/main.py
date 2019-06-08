@@ -35,6 +35,6 @@ out = open("budget_summ.txt","w+")
 
 out.write("Total Months: " + str(len(month))+"\n")
 out.write("Total Profits: $" + str(sum(profit))+"\n")
-out.write("Average Profits: $" + str(sum(month_profit_change)/len(month))+"\n")
+out.write("Average Profits: $" + str(sum(month_profit_change)/(len(month)-1))+"\n")
 out.write("Maximum Profits: $" + str(max(month_profit_change))+"\n")
 out.write("Minimum Profits: $" + str(min(month_profit_change))+"\n")
