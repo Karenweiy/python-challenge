@@ -2,8 +2,8 @@ Election Results
 ----------------------
 Total Votes: 3521001
 ----------------------
-Khan's vote percentage: 63%
-Correy's vote percentage: 20%
-Li's vote percentage: 14%
-O'Tooley's vote percentage:3%
-Winner Khan!
+Khan's vote percentage: 63% (2218231)
+Correy's vote percentage: 20% (704200)
+Li's vote percentage: 14% (492940)
+O'Tooley's vote percentage:3% (105630)
+Winner Khan

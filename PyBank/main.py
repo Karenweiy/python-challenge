@@ -19,7 +19,7 @@ with open(csvpath, newline="") as csvfile:
 for i in range(len(profit)-1):
     #print(i)
     #print(len(profit))
-   # print(profit[i])
+    #print(profit[i])
 
     month_change=profit[i+1]-profit[i]
     month_profit_change.append(month_change)
